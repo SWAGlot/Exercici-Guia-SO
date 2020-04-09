@@ -1,0 +1,10 @@
+C:\Users\Babo\Documents\UPC\SO\Exercici_Guia\Exercici_Guia\bin\Debug\Exercici_Guia.exe.config
+C:\Users\Babo\Documents\UPC\SO\Exercici_Guia\Exercici_Guia\bin\Debug\Exercici_Guia.exe
+C:\Users\Babo\Documents\UPC\SO\Exercici_Guia\Exercici_Guia\bin\Debug\Exercici_Guia.pdb
+C:\Users\Babo\Documents\UPC\SO\Exercici_Guia\Exercici_Guia\obj\Debug\Exercici_Guia.csprojAssemblyReference.cache
+C:\Users\Babo\Documents\UPC\SO\Exercici_Guia\Exercici_Guia\obj\Debug\Exercici_Guia.Finestra.resources
+C:\Users\Babo\Documents\UPC\SO\Exercici_Guia\Exercici_Guia\obj\Debug\Exercici_Guia.Properties.Resources.resources
+C:\Users\Babo\Documents\UPC\SO\Exercici_Guia\Exercici_Guia\obj\Debug\Exercici_Guia.csproj.GenerateResource.cache
+C:\Users\Babo\Documents\UPC\SO\Exercici_Guia\Exercici_Guia\obj\Debug\Exercici_Guia.csproj.CoreCompileInputs.cache
+C:\Users\Babo\Documents\UPC\SO\Exercici_Guia\Exercici_Guia\obj\Debug\Exercici_Guia.exe
+C:\Users\Babo\Documents\UPC\SO\Exercici_Guia\Exercici_Guia\obj\Debug\Exercici_Guia.pdb
